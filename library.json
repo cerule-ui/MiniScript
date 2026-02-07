@@ -1,0 +1,9 @@
+[
+  {
+    "id": "randomizer",
+    "name": "Рандомайзер",
+    "desc": "Генерирует случайные числа. Твой первый скрипт!",
+    "ver": "1.0.0",
+    "url": "https://raw.githubusercontent.com/cerule-ui/MiniScript/main/Randomizer.qml"
+  }
+]
