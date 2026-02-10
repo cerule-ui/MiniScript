@@ -3,7 +3,7 @@
     "id": "randomizer",
     "name": "Рандомайзер",
     "desc": "Генерирует случайные числа. Твой первый скрипт!",
-    "ver": "1.0.1",
+    "ver": "1.0.2",
     "url": "https://raw.githubusercontent.com/cerule-ui/MiniScript/main/Randomizer.qml"
   }
 ]
